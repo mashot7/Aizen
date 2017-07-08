@@ -1,0 +1,33 @@
+
+h1 {
+  color: rgb(154, 108, 115);
+  color: rgba(154,108,115, 0.6);
+  background-color: hsla(140, 25%, 70%, 0.5);
+  font-size: 35px;
+  font-family: Georgia;
+}
+
+h2 {
+  color: darkcyan;
+  color: #ffag05;
+  font-family: Helvatica;
+}
+
+p {
+  color: green;
+  font-family: Helvatica;
+}
+#Aizen {
+  width: 25%;
+  border: 5px solid rgba(0, 0, 0, 0.5);
+  border-radius:20px;
+ margin-left: 20%;
+
+
+}
+.Aizen {
+  width: 25%;
+  border: 10px groove black;
+  border-radius: 140px 0px 140px 0px;
+  margin-left: 10%;
+}
